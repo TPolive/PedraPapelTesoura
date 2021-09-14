@@ -1,0 +1,4 @@
+com/cursoandroid/pedrapapeloutesouraprojeto/MainActivity.java
+ com.cursoandroid.pedrapapeloutesouraprojeto.MainActivity
+com/cursoandroid/pedrapapeloutesouraprojeto/BuildConfig.java
+ com.cursoandroid.pedrapapeloutesouraprojeto.BuildConfig
